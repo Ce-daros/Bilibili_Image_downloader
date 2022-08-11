@@ -9,6 +9,7 @@
 // @require      https://cdn.bootcdn.net/ajax/libs/jszip/3.10.0/jszip.min.js
 // @require      https://cdn.bootcdn.net/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 var obj=document.getElementsByClassName("normal-img");
 var zip=new JSZip();
