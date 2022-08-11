@@ -2,7 +2,7 @@
 // @name         Bilibili专栏图片批量下载
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Bilibili专栏图片批量下载
+// @description  用于批量下载Bilibili专栏图片的工具
 // @author       Cedaraos
 // @match        https://www.bilibili.com/read/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
