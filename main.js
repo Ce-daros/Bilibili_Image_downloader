@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bilibili专栏图片批量下载
 // @namespace    http://tampermonkey.net/
-// @version      1
+// @version      1.0
 // @description  Bilibili专栏图片批量下载
 // @author       Cedaraos
 // @match        https://www.bilibili.com/read/*
